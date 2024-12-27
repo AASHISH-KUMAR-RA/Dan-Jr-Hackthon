@@ -105,14 +105,6 @@ To get started with Shofy, follow these steps:
 
 [Shofy Server Side Live Link](https://shofy-backend.vercel.app)
 
-## Client Side Repo
-
-[Shofy Client Side Repo](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-client.git)
-
-## Server Side Repo
-
-[Shofy Server Side Repo](https://github.com/Hamed-Hasan/shofy-Beauty-and-Cosmetics-ecommerce-backend.git)
-
 ## Sources and Credits
 
 - Twitter Bootstrap
